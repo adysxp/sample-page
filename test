@@ -1,0 +1,2 @@
+ $data = '{"type":["S","R"]}';
+ $arr = json_decode($data, true);
