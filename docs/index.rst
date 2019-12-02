@@ -14,5 +14,5 @@ Style Catalog
 -------------
 
 
-Style Catalog2
+Catalog2
 -------------
