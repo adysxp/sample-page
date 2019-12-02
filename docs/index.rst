@@ -12,3 +12,7 @@ to get a working copy of the Read the Docs repository locally.
 
 Style Catalog
 -------------
+
+
+Style Catalog
+-------------
